@@ -1,9 +1,9 @@
 ---
-name: 网站标题
+name: FriendsLinks
 about: 自助提交友链
-title: FriendsLinks
-labels: ''
-assignees: ''
+title: 网站标题
+labels: 'friends'
+assignees: 'Akimoto'
 
 ---
 
