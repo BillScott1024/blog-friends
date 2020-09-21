@@ -1,13 +1,13 @@
 ---
 name: FriendsLinks
 about: 自助提交友链
-title: ''
-labels: ''
-assignees: ''
+title: 'FriendsLinks'
+labels: 'friends'
+assignees: 'Akimoto'
 
 ---
 
-|  表头   | 表头  |
+|  选项   | 描述  |
 |  ----  | ----  |
 | title  | 网站标题 |
 | url  | 主页链接 |
