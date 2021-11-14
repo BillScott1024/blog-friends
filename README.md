@@ -1,7 +1,10 @@
 # blog-friends
-friends links
 
-# 全自动提交友链系统
+
+
+# 全自动提交友链系统 Friend's website links auto submit system
+
+## 提交步骤
 
 1. 首先在自己的网站友链页面中，添加我的友链信息；
 2. 按照模板在 Issue 中提交即可；
