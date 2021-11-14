@@ -1,12 +1,16 @@
 # blog-friends
 friends links
-全自动提交友链系统
 
-按照模板在 Issue 中提交即可。
+# 全自动提交友链系统
 
-提交成功后，在主页：https://extingstudio.com/friends/ 刷新查看
+1. 首先在自己的网站友链页面中，添加我的友链信息；
+2. 按照模板在 Issue 中提交即可；
+3. 提交成功后，在主页：https://extingstudio.com/friends/ 刷新查看；
 
-[点击进入友链主页](https://extingstudio.com/friends/)
+> 
+> [点击进入友链主页](https://extingstudio.com/friends/)
+> 
+
 
 
 附我的友链信息：
