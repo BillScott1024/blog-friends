@@ -15,20 +15,25 @@ friends links
 
 附我的友链信息：
 JSON格式：
-
+``json
 {     "title": "忆星辰",
       "description": "游戏开发者, 业余摄影师",
       "screenshot": "https://cdn.jsdelivr.net/gh/BillScott1024/cdn-blog/images/homepage.webp",
       "url": "https://home.extingstudio.com",
       "avatar": "https://cdn.jsdelivr.net/gh/BillScott1024/cdn-blog/images/avatar.webp"
 }
-
+``
 
 YAML格式：
-
+``yaml
 title: 忆星辰
 url: https://home.extingstudio.com
 avatar: https://cdn.jsdelivr.net/gh/BillScott1024/cdn-blog/images/avatar.webp
 description: 游戏开发者, 业余摄影师
 screenshot: https://cdn.jsdelivr.net/gh/BillScott1024/cdn-blog/images/homepage.webp
+``
+
+
+
+
 	
