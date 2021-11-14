@@ -1,4 +1,5 @@
-# 全自动提交友链系统 Friend's website links auto submit system
+# 全自动提交友链系统
+Friend's website links auto submit system
 
 
 ## 提交步骤
